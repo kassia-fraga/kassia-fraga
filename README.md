@@ -1,4 +1,6 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
+</p>
 
 <hr />
 
@@ -10,7 +12,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassiamabily&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<table>
+<table border="0" width="100%">
     <tr>
         <td>
             <div>
