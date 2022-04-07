@@ -30,8 +30,5 @@
                 <a href="https://www.linkedin.com/in/kassia-fraga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
             </div>
         </td>
-        <td align="right">
-            <img alt="Kassia-Draw" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_ZkYoa4AC.png" height="148" width="128">
-        </td>
     </tr>
 </table>
