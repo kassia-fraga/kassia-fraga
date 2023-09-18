@@ -48,8 +48,11 @@ Let's build the future together!
 ---
 
 ## ⭐ Information about my GitHub account
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kassiamabily&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kassiamabily&layout=compact&langs_count=7&theme=dracula)
+
+<div>
+  <img height="250" src="https://github-readme-stats.vercel.app/api?username=kassiamabily&show_icons=true&theme=dracula&count_private=true&line_height=33"/>
+  <img height="250" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassiamabily&show_icons=true&theme=dracula&count_private=true"/>
+</div>
 
 
 <a href="https://www.instagram.com/kassia.mabily/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
