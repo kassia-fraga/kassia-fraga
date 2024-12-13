@@ -13,20 +13,18 @@ Let's build the future together!
 
 ## 🚀 My skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp"/></code>
 
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt=".NET"/></code>
 <code><img height="32" src="https://cdn.simpleicons.org/django/092E20/FFF" alt="django"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt=".NET"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://cdn.simpleicons.org/nextdotjs/000000/FFF" alt="nextdotjs"/></code>
 
-<code><img height="32" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="microsoftsqlserver"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 
@@ -36,7 +34,7 @@ Let's build the future together!
 <code><img height="32" src="https://cdn.simpleicons.org/prisma/2D3748/FFF" alt="prisma"/></code>
 <code><img height="32" src="https://cdn.simpleicons.org/docker/2496ED" alt="docker"/></code>
 
-<code><img height="32" src="https://cdn.simpleicons.org/amazonaws/232F3E/FFF" alt="amazonaws"/></code>
+<code><img height="32" src="https://cdn.simpleicons.org/amazonwebservices/232F3E/FFF" alt="amazonaws"/></code>
 <code><img height="32" src="https://cdn.simpleicons.org/amazons3/569A31" alt="amazons3"/></code>
 <code><img height="32" src="https://cdn.simpleicons.org/amazonrds/527FFF" alt="amazonrds"/></code>
 <code><img height="32" src="https://cdn.simpleicons.org/amazonsqs/FF4F8B" alt="amazonsqs"/></code>
