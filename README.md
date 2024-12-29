@@ -1,5 +1,5 @@
 ## 💜 Hello, my name is Kassia Fraga!
-### I'm a fullstack engineer, pet lover and junior gamer
+### I'm a fullstack engineer, pet lover and noob gamer
 
 Passionate Fullstack Developer dedicated to creating innovative and impactful solutions. With extensive experience in software development, I have skills in both frontend and backend, allowing me to build complete and robust applications. I specialize in technologies like ReactJS, NextJS, .NET, and Django (DRF), and have expertise in SQL Server and PostgreSQL databases.
 
