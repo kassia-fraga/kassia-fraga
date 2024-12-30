@@ -1,7 +1,12 @@
-## 💜 Hello, my name is Kassia Fraga!
-### I'm a fullstack engineer, pet lover and noob gamer
+<div align="center">
+    <img src="https://avatars.githubusercontent.com/u/52832800?v=4" alt="Kassia Fraga Photo" height="100" style="border-radius: 50%;" />
+    <h1>Welcome to My GitHub!</h1>
+</div>
 
-Passionate Fullstack Developer dedicated to creating innovative and impactful solutions. With extensive experience in software development, I have skills in both frontend and backend, allowing me to build complete and robust applications. I specialize in technologies like ReactJS, NextJS, .NET, and Django (DRF), and have expertise in SQL Server and PostgreSQL databases.
+## 💜 Hello, my name is Kassia Fraga!
+### I'm a fullstack engineer, pet lover, and noob gamer
+
+Passionate Frontend Developer and Computer Science undergraduate, I specialize in creating innovative and impactful solutions. My expertise lies in modern frontend technologies, particularly ReactJS and NextJS, which I have extensively used to craft dynamic and user-friendly interfaces.
 
 Let's build the future together!
 
@@ -11,7 +16,14 @@ Let's build the future together!
 
 ---
 
-## 🚀 My skills
+## 🌐 Check Out My Portfolio
+<a href="https://portfolio-chi-puce-73.vercel.app/kassia-fraga" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-%230077B5?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Badge"/>
+</a>
+
+---
+
+## 🚀 My Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -45,14 +57,19 @@ Let's build the future together!
 
 ---
 
-## ⭐ Information about my GitHub account
+## ⭐ Information about My GitHub Account
 
 <div>
   <img height="250" src="https://github-readme-stats.vercel.app/api?username=kassiamabily&show_icons=true&theme=dracula&count_private=true&line_height=33"/>
   <img height="250" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassiamabily&show_icons=true&theme=dracula&count_private=true"/>
 </div>
 
+---
 
-<a href="https://www.instagram.com/kassia.mabily/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-<a href = "mailto:kassiafraga7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-<a href="https://www.linkedin.com/in/kassia-fraga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+
+## 📞 Connect With Me
+
+<a href="https://www.instagram.com/kassia.mabily/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
+<a href="mailto:kassiafraga7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+<a href="https://www.linkedin.com/in/kassia-fraga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+<a href="https://portfolio-chi-puce-73.vercel.app/kassia-fraga" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
