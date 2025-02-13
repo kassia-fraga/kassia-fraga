@@ -3,7 +3,7 @@
     <h1>Welcome to My GitHub!</h1>
 </div>
 
-## 💜 Hello, my name is Kassia Souza!
+## 💜 Hello, my name is Kassia Fraga!
 ### I'm a fullstack engineer, pet lover, and noob gamer
 
 Passionate Frontend Developer and Computer Science undergraduate, I specialize in creating innovative and impactful solutions. My expertise lies in modern frontend technologies, particularly ReactJS and NextJS, which I have extensively used to craft dynamic and user-friendly interfaces.
@@ -71,5 +71,5 @@ Let's build the future together!
 
 <a href="https://www.instagram.com/kassia.mabily/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
 <a href="mailto:kassiafraga7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
-<a href="https://www.linkedin.com/in/kassia-fraga-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+<a href="https://www.linkedin.com/in/kassia-fraga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 <a href="https://portfolio-chi-puce-73.vercel.app/kassia-fraga" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
