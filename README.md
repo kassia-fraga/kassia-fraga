@@ -60,8 +60,8 @@ Let's build the future together!
 ## ⭐ Information about My GitHub Account
 
 <div>
-  <img height="250" src="https://github-readme-stats.vercel.app/api?username=kassiamabily&show_icons=true&theme=dracula&count_private=true&line_height=33"/>
-  <img height="250" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassiamabily&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="250" src="https://github-readme-stats.vercel.app/api?username=kassia-fragay&show_icons=true&theme=dracula&count_private=true&line_height=33"/>
+  <img height="250" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassia-fraga&show_icons=true&theme=dracula&count_private=true"/>
 </div>
 
 ---
